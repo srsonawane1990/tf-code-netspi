@@ -2,12 +2,17 @@
 Create infra using terraform code
 
 ## Steps to Deploy
+
 Initialize the Project:
+
     terraform init
 
 Plan the Deployment:
+
     terraform plan
+
 Apply the Deployment:
+
     terraform apply
 
 
